@@ -1,0 +1,2 @@
+[2024-09-26 01:34:22,806] 1069 openai._base_client - INFO - Retrying request to /chat/completions in 0.888106 seconds
+[2024-09-26 01:34:23,742] 1069 openai._base_client - INFO - Retrying request to /chat/completions in 1.678268 seconds
